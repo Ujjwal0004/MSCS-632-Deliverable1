@@ -2,7 +2,7 @@
 
 # Book Cataloging System in C# and Ruby
 
-## Team Members
+## Team Members - Group 7
 
 - Ujjwal Khadka
 - Prasanthi Pakalapati
